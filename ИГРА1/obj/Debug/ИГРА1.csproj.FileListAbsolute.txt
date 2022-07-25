@@ -1,0 +1,76 @@
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe.config
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.pdb
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form1.resources
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Properties.Resources.resources
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.GenerateResource.cache
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.CoreCompileInputs.cache
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.exe
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.pdb
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form2.resources
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csprojAssemblyReference.cache
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form3.resources
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form4.resources
+C:\Users\Julya\Desktop\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form5.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe.config
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csprojAssemblyReference.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form1.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form2.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form3.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form4.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form5.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Properties.Resources.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.GenerateResource.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.CoreCompileInputs.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\ПРОСТО ТАК\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form1.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form3.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form4.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form5.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Properties.Resources.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.GenerateResource.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.CoreCompileInputs.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe.config
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csprojAssemblyReference.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\курсовой проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form2.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe.config
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form1.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form2.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form3.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form4.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form5.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Properties.Resources.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.GenerateResource.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.CoreCompileInputs.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form6.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\timeGame.mdf
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\timeGame_log.ldf
+C:\Users\vikpr\OneDrive\Рабочий стол\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.AssemblyReference.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\timeGame.mdf
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\timeGame_log.ldf
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe.config
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\bin\Debug\ИГРА1.pdb
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.AssemblyReference.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form1.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form2.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form3.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form4.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form5.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Form6.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.Properties.Resources.resources
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.GenerateResource.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.csproj.CoreCompileInputs.cache
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.exe
+C:\Users\vikpr\OneDrive\Рабочий стол\Учёба\дипломный проект\ИГРА1\ИГРА1\ИГРА1\obj\Debug\ИГРА1.pdb
